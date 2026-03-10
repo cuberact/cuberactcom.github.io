@@ -1,0 +1,9 @@
+# IDE
+/.idea/
+
+# claude code
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
